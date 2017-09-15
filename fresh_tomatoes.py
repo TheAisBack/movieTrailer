@@ -29,8 +29,8 @@ main_page_head = '''
         }
         #trailer .modal-dialog {
             margin-top: 200px;
-            width: 640px;
-            height: 480px;
+            width: 800px;
+            height: 500px;
         }
         .hanging-close {
             position: absolute;
